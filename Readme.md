@@ -5,3 +5,5 @@ KTRs graphically, and clicking on each step shows normal line diff of
 simplified XML fragment of that step. See below for usage:
 
     $ difftr file1.ktr file2.ktr > file1-file2-diff.html
+
+difftr requires python 3 and graphviz.
